@@ -1,0 +1,18 @@
+{
+  "1": {
+    "nome": "Quiz da Amizade",
+    "link": "https://quizamizade.com",
+    "url_img": "https://quizamizade.com/img.png"
+  },
+  "2": {
+    "nome": "Sistema do Quiosque",
+    "link": "https://quiosqueos.jumpstudios.com",
+    "url_img": "https://quiosqueos.jumpstudios.com/logo.png"
+  },
+  "3": {
+    "nome": "Servidor Água",
+    "link": "https://aguaserver.jumpstudios.com",
+    "url_img": "https://aguaserver.jumpstudios.com/agua.png"
+  },
+  "ALLAPP": "3"
+}
