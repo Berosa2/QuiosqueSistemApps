@@ -1,1 +1,1 @@
-"# QuiosqueSistemApps" 
+# QuiosqueSistemApps
